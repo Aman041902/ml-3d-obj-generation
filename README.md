@@ -17,6 +17,7 @@ This project demonstrates generating 3D assets from text prompts using the **Sha
 ## Repository Structure
 
 
+```
 ShapE-3D-Generation/
 ├── ShapE_3D_Generation.ipynb     # Main Colab notebook with code and instructions
 ├── output_assets/                # Folder containing generated 3D assets in OBJ format
@@ -25,9 +26,7 @@ ShapE-3D-Generation/
 │   ├── example_mesh_2.obj
 │   └── example_mesh_3.obj
 └── README.md                     # This documentation file
-
-
-
+```
 
 ---
 
@@ -114,5 +113,3 @@ You can preview these files in any OBJ-supporting application.
 - This repository is for educational and demonstration purposes.
 
 ---
-
-
