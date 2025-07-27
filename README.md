@@ -18,7 +18,7 @@ This project demonstrates generating 3D assets from text prompts using the **Sha
 
 
 ```
-ShapE-3D-Generation/
+ml-3d-obj-generation/
 ├── ShapE_3D_Generation.ipynb     # Main Colab notebook with code and instructions
 ├── output_assets/                # Folder containing generated 3D assets in OBJ format
 │   ├── example_mesh_0.obj
@@ -69,14 +69,6 @@ prompts = [
 - PyTorch with CUDA (GPU recommended but CPU also supported)
 - Google Colab (recommended for ease of use and free GPU access)
 - Dependencies listed in the notebook are installed automatically.
-
----
-
-## Notes and Tips
-
-- Shap-E requires decent GPU memory (~12GB+ recommended). If running on CPU or low memory, generation may be slow or less accurate.
-- The exported OBJ models contain geometry but may not have complex materials or textures.
-- For advanced usage, refer to [Shap-E GitHub repo](https://github.com/openai/shap-e).
 
 ---
 
