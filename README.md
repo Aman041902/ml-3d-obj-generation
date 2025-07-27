@@ -59,7 +59,6 @@ prompts = [
 - The `.obj` files in the `output_assets` folder can be imported into:
 - **3D software:** Blender, Maya, 3DS Max, etc.
 - **Game engines:** Unity, Unreal Engine.
-- **Online viewers:** e.g., https://mynameisjimmy.github.io/obj-viewer/
 
 ---
 
